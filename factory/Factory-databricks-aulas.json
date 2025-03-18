@@ -1,0 +1,9 @@
+{
+	"name": "Factory-databricks-aulas",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f2ae846-68c0-46bf-8f9c-b9d5a3897834",
+		"tenantId": "32c03977-f9ba-4e64-951d-6960b3ad9e2a"
+	}
+}
