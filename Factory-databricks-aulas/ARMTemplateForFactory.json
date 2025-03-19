@@ -122,9 +122,8 @@
 					"recurrence": {
 						"frequency": "Day",
 						"interval": 1,
-						"startTime": "2025-03-20T18:24:00",
-						"timeZone": "E. South America Standard Time",
-						"schedule": {}
+						"startTime": "2025-03-19T18:28:00",
+						"timeZone": "E. South America Standard Time"
 					}
 				}
 			},
